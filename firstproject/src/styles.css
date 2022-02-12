@@ -1,0 +1,20 @@
+p {
+  color: gray;
+}
+a {
+  text-decoration: none;
+  color: rgb(30, 115, 184);
+}
+.items {
+  margin: auto;
+  background-color:whitesmoke;
+  width: 400px;
+  height: 365px;
+  border-radius: 10px;
+}
+.container {
+  width: 500px;
+  height: 400px;
+  background-color: rgb(128, 128, 128);
+  margin: auto;
+}
